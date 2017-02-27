@@ -1,0 +1,15 @@
+{
+  "extension": {
+    "name": "Maker",
+    "version": "0.0.1",
+    "description": "An internal extension of Studio",
+    "icon": "icon.png",
+    "actions": [
+      {
+        "name": "init",
+        "title": "Init"
+      }
+    ],
+    "lifetime": "application_lifetime"
+  }
+}
